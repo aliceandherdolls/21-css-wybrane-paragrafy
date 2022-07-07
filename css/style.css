@@ -1,0 +1,14 @@
+p{background-color:red;height:100px;width:100px;}
+
+.four{background-color: aquamarine;}
+
+.seven{background-color: bisque;}
+
+.nine{background-color:paleturquoise;}
+
+.two{opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+.eight{ opacity: 0.6;
+    filter: alpha(opacity=60);}
